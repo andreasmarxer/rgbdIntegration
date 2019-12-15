@@ -1,4 +1,5 @@
 # examples/Python/Advanced/rgbd_integration.py
+# adapted from Open3D Documentation examples
 
 import open3d as o3d
 from trajectory_io import *
